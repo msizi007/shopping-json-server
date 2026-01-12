@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msizi007/json-server.git"
+    "url": "git+https://github.com/msizi007/shopping-json-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/msizi007/json-server.git"
+    "url": "https://github.com/msizi007/shopping-json-server.git"
   },
-  "homepage": "https://github.com/msizi007/json-server.git",
+  "homepage": "https://github.com/msizi007/shopping-json-server.git",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
